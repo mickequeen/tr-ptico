@@ -12,6 +12,7 @@
 	width: 150px;
 	height: 390px;
 	text-align: center;
+	background-color: white;
 }
 .middle{
 
@@ -20,6 +21,7 @@
 	width: 300px;
 	height: 390px;
 	text-align: center ;
+	background-color: white;
 }
 .img1{
 	width: 100px;
@@ -32,11 +34,11 @@
 }
 
 .foot{
-	float: left;
 	width: 604px;
 	text-align: center;
 	border: thin solid black;
-	display: block;
 	font-weight: bolder;
+	font-size: 18px;
+	display: block;
 	background-color: #FFC107;
 }
